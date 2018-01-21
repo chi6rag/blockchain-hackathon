@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KAPY Nursery</string>
+    <string name="aadhar_card_number">Aadhar Card Number</string>
+    <string name="transfer_seedlings">Transfer Seedlings</string>
+</resources>
